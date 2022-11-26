@@ -3,14 +3,14 @@
   <title>KanoのBlog</title>
   
   
-  <link href="https://atriqwq/ATRIqwq.github.io/atom.xml" rel="self"/>
+  <link href="https://atriqwq.github.io/atom.xml" rel="self"/>
   
-  <link href="https://atriqwq/ATRIqwq.github.io/"/>
-  <updated>2022-11-25T09:39:57.894Z</updated>
-  <id>https://atriqwq/ATRIqwq.github.io/</id>
+  <link href="https://atriqwq.github.io/"/>
+  <updated>2022-11-26T09:49:15.237Z</updated>
+  <id>https://atriqwq.github.io/</id>
   
   <author>
-    <name>kano</name>
+    <name>Kano</name>
     
   </author>
   
@@ -18,10 +18,10 @@
   
   <entry>
     <title>第一篇文章</title>
-    <link href="https://atriqwq/ATRIqwq.github.io/2022/12/25/2022-12-25-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>https://atriqwq/ATRIqwq.github.io/2022/12/25/2022-12-25-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <link href="https://atriqwq.github.io/2022/12/25/2022-12-25-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://atriqwq.github.io/2022/12/25/2022-12-25-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2022-12-25T09:00:00.000Z</published>
-    <updated>2022-11-25T09:39:57.894Z</updated>
+    <updated>2022-11-26T09:49:15.237Z</updated>
     
     <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2>]]></content>
     
@@ -33,15 +33,59 @@
     
     
     
+    <category term="server后端" scheme="https://atriqwq.github.io/categories/server%E5%90%8E%E7%AB%AF/"/>
+    
+    
+    <category term="C++" scheme="https://atriqwq.github.io/tags/C/"/>
+    
+    <category term="java" scheme="https://atriqwq.github.io/tags/java/"/>
+    
+    <category term="python" scheme="https://atriqwq.github.io/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>算法</title>
+    <link href="https://atriqwq.github.io/2022/11/26/%E7%AE%97%E6%B3%95/"/>
+    <id>https://atriqwq.github.io/2022/11/26/%E7%AE%97%E6%B3%95/</id>
+    <published>2022-11-26T09:05:23.000Z</published>
+    <updated>2022-11-26T09:49:19.519Z</updated>
+    
+    
+    
+    
+    <category term="算法" scheme="https://atriqwq.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="算法" scheme="https://atriqwq.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="数据结构" scheme="https://atriqwq.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>My First  Blog</title>
+    <link href="https://atriqwq.github.io/2022/11/26/My-First-Blog/"/>
+    <id>https://atriqwq.github.io/2022/11/26/My-First-Blog/</id>
+    <published>2022-11-26T08:20:01.000Z</published>
+    <updated>2022-11-26T09:49:26.118Z</updated>
+    
+    
+    
+    
+    <category term="日常life" scheme="https://atriqwq.github.io/categories/%E6%97%A5%E5%B8%B8life/"/>
+    
+    
+    <category term="life" scheme="https://atriqwq.github.io/tags/life/"/>
     
   </entry>
   
   <entry>
     <title>第二篇文章</title>
-    <link href="https://atriqwq/ATRIqwq.github.io/2022/11/25/2022-11-25-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>https://atriqwq/ATRIqwq.github.io/2022/11/25/2022-11-25-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <link href="https://atriqwq.github.io/2022/11/25/2022-11-25-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://atriqwq.github.io/2022/11/25/2022-11-25-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2022-11-25T12:00:00.000Z</published>
-    <updated>2022-11-25T13:09:12.880Z</updated>
+    <updated>2022-11-26T09:48:55.296Z</updated>
     
     <content type="html"><![CDATA[<h2 id="这是我的第二篇文章"><a href="#这是我的第二篇文章" class="headerlink" title="这是我的第二篇文章"></a>这是我的第二篇文章</h2>]]></content>
     
@@ -53,6 +97,14 @@
     
     
     
+    <category term="Web前端" scheme="https://atriqwq.github.io/categories/Web%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="vue" scheme="https://atriqwq.github.io/tags/vue/"/>
+    
+    <category term="js" scheme="https://atriqwq.github.io/tags/js/"/>
+    
+    <category term="jQuery" scheme="https://atriqwq.github.io/tags/jQuery/"/>
     
   </entry>
   
