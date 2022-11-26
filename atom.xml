@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>KanoのBlog</title>
+  
+  
+  <link href="http://atriqwq.github.io/project/atom.xml" rel="self"/>
+  
+  <link href="http://atriqwq.github.io/project/"/>
+  <updated>2022-11-25T09:39:57.894Z</updated>
+  <id>http://atriqwq.github.io/project/</id>
+  
+  <author>
+    <name>kano</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇文章</title>
+    <link href="http://atriqwq.github.io/project/2022/12/25/2022-12-25-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://atriqwq.github.io/project/2022/12/25/2022-12-25-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2022-12-25T09:00:00.000Z</published>
+    <updated>2022-11-25T09:39:57.894Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;这是我的第一篇文章&quot;&gt;&lt;a href=&quot;#这是我的第一篇文章&quot; class=&quot;headerlink&quot; title=&quot;这是我的第一篇文章&quot;&gt;&lt;/a&gt;这是我的第一篇文章&lt;/h2&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第二篇文章</title>
+    <link href="http://atriqwq.github.io/project/2022/11/25/2022-11-25-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://atriqwq.github.io/project/2022/11/25/2022-11-25-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2022-11-25T12:00:00.000Z</published>
+    <updated>2022-11-25T13:09:12.880Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="这是我的第二篇文章"><a href="#这是我的第二篇文章" class="headerlink" title="这是我的第二篇文章"></a>这是我的第二篇文章</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;这是我的第二篇文章&quot;&gt;&lt;a href=&quot;#这是我的第二篇文章&quot; class=&quot;headerlink&quot; title=&quot;这是我的第二篇文章&quot;&gt;&lt;/a&gt;这是我的第二篇文章&lt;/h2&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
