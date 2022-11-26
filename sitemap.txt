@@ -1,8 +1,8 @@
-http://atriqwq.github.io/project/2022/11/25/2022-11-25-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/
-http://atriqwq.github.io/project/music/index.html
-http://atriqwq.github.io/project/movies/index.html
-http://atriqwq.github.io/project/about/index.html
-http://atriqwq.github.io/project/tags/index.html
-http://atriqwq.github.io/project/link/index.html
-http://atriqwq.github.io/project/2022/12/25/2022-12-25-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/
-http://atriqwq.github.io/project
+http://atriqwq.github.io/2022/11/25/2022-11-25-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/
+http://atriqwq.github.io/music/index.html
+http://atriqwq.github.io/movies/index.html
+http://atriqwq.github.io/about/index.html
+http://atriqwq.github.io/tags/index.html
+http://atriqwq.github.io/link/index.html
+http://atriqwq.github.io/2022/12/25/2022-12-25-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/
+http://atriqwq.github.io/

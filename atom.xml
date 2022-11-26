@@ -3,11 +3,11 @@
   <title>KanoのBlog</title>
   
   
-  <link href="http://atriqwq.github.io/project/atom.xml" rel="self"/>
+  <link href="http://atriqwq.github.io/atom.xml" rel="self"/>
   
-  <link href="http://atriqwq.github.io/project/"/>
+  <link href="http://atriqwq.github.io/"/>
   <updated>2022-11-25T09:39:57.894Z</updated>
-  <id>http://atriqwq.github.io/project/</id>
+  <id>http://atriqwq.github.io/</id>
   
   <author>
     <name>kano</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>第一篇文章</title>
-    <link href="http://atriqwq.github.io/project/2022/12/25/2022-12-25-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>http://atriqwq.github.io/project/2022/12/25/2022-12-25-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <link href="http://atriqwq.github.io/2022/12/25/2022-12-25-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://atriqwq.github.io/2022/12/25/2022-12-25-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2022-12-25T09:00:00.000Z</published>
     <updated>2022-11-25T09:39:57.894Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>第二篇文章</title>
-    <link href="http://atriqwq.github.io/project/2022/11/25/2022-11-25-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>http://atriqwq.github.io/project/2022/11/25/2022-11-25-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <link href="http://atriqwq.github.io/2022/11/25/2022-11-25-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://atriqwq.github.io/2022/11/25/2022-11-25-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2022-11-25T12:00:00.000Z</published>
     <updated>2022-11-25T13:09:12.880Z</updated>
     
