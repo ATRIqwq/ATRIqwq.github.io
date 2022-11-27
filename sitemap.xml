@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://atriqwq.github.io/2022/11/27/css%E5%B0%8F%E7%BB%83%E4%B9%A0-1/</loc>
+    <loc>https://atriqwq.github.io/2022/11/25/2022-12-25-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
     
     <lastmod>2022-11-27</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://atriqwq.github.io/2022/11/25/2022-12-25-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
+    <loc>https://atriqwq.github.io/2022/11/27/css%E5%B0%8F%E7%BB%83%E4%B9%A0-1/</loc>
     
     <lastmod>2022-11-27</lastmod>
     
@@ -137,7 +137,21 @@
 
   
   <url>
-    <loc>https://atriqwq.github.io/tags/life/</loc>
+    <loc>https://atriqwq.github.io/tags/vue/</loc>
+    <lastmod>2022-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://atriqwq.github.io/tags/js/</loc>
+    <lastmod>2022-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://atriqwq.github.io/tags/jQuery/</loc>
     <lastmod>2022-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -172,21 +186,7 @@
   </url>
   
   <url>
-    <loc>https://atriqwq.github.io/tags/vue/</loc>
-    <lastmod>2022-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://atriqwq.github.io/tags/js/</loc>
-    <lastmod>2022-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://atriqwq.github.io/tags/jQuery/</loc>
+    <loc>https://atriqwq.github.io/tags/life/</loc>
     <lastmod>2022-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -200,13 +200,6 @@
   </url>
   
 
-  
-  <url>
-    <loc>https://atriqwq.github.io/categories/%E6%97%A5%E5%B8%B8life/</loc>
-    <lastmod>2022-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://atriqwq.github.io/categories/Web%E5%89%8D%E7%AB%AF/</loc>
@@ -224,6 +217,13 @@
   
   <url>
     <loc>https://atriqwq.github.io/categories/%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2022-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://atriqwq.github.io/categories/%E6%97%A5%E5%B8%B8life/</loc>
     <lastmod>2022-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
