@@ -6,7 +6,7 @@
   <link href="https://kanoblog.club/atom.xml" rel="self"/>
   
   <link href="https://kanoblog.club/"/>
-  <updated>2022-11-28T05:19:53.738Z</updated>
+  <updated>2022-11-28T13:49:10.315Z</updated>
   <id>https://kanoblog.club/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>更新日志</title>
+    <link href="https://kanoblog.club/2022/11/28/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    <id>https://kanoblog.club/2022/11/28/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</id>
+    <published>2022-11-28T13:27:03.000Z</published>
+    <updated>2022-11-28T13:49:10.315Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>时间轴</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-11-27 [1.0.1 -&gt; 1.0.2]</p></div></div><div class='timeline-item-content'><ol><li>更新了pc夜间和白天模式下<code>背景图切换</code></li><li>更新了手机端的白天和夜间模式下<code>背景图切换</code></li><li>更新了菜单栏<code>番剧列表</code>，可以查看我的追番</li><li>更新了<code>音乐</code>页面，调用的是QQ音乐的接口，以歌单形式展示</li><li>更新了<code>视频</code>页面</li><li>更新了<code>留言板页面</code>，用的是<code>薇尔莉特自动手记</code>样式</li><li>更新了<code>看板娘</code>，这孩子还没能换装和说话</li><li>更新了<code>顶部加载条</code>样式，和加载中页面模糊的效果</li><li>美化了<code>文章末尾的版权样式</code></li><li>美化了标题前面的<code>旋转风车</code>图标</li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-11-27 [1.0.0 -&gt; 1.0.1]</p></div></div><div class='timeline-item-content'><ol><li>更新了夜间模式下的<code>星空背景</code>和<code>流星特效</code></li><li>更新了侧边栏的<code>电子时钟(可以查看本地天气和日期)</code></li><li>更新了<code>个人卡片渐变色</code></li><li>更新了<code>外观标签</code>，让<code>markdown</code>语法更加好看</li><li>更新了<code>听话的鼠标</code></li><li>调节了<code>页面的布局</code>和<code>每个卡片透明度</code></li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-11-26 [1.0.0]</p></div></div><div class='timeline-item-content'><p>不需要额外处理。</p></div></div></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;更新日志&quot;&gt;&lt;a href=&quot;#更新日志&quot; class=&quot;headerlink&quot; title=&quot;更新日志&quot;&gt;&lt;/a&gt;更新日志&lt;/h2&gt;&lt;div class=&quot;timeline blue&quot;&gt;&lt;div class=&#39;timeline-item headline&#39;&gt;&lt;d</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>css小练习(2)</title>
@@ -65,32 +85,6 @@
     <category term="web" scheme="https://kanoblog.club/tags/web/"/>
     
     <category term="css" scheme="https://kanoblog.club/tags/css/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>算法</title>
-    <link href="https://kanoblog.club/2022/11/26/%E7%AE%97%E6%B3%95/"/>
-    <id>https://kanoblog.club/2022/11/26/%E7%AE%97%E6%B3%95/</id>
-    <published>2022-11-26T09:05:23.000Z</published>
-    <updated>2022-11-28T05:24:39.630Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="开发中，待更新"><a href="#开发中，待更新" class="headerlink" title="开发中，待更新"></a>开发中，待更新</h2>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;开发中，待更新&quot;&gt;&lt;a href=&quot;#开发中，待更新&quot; class=&quot;headerlink&quot; title=&quot;开发中，待更新&quot;&gt;&lt;/a&gt;开发中，待更新&lt;/h2&gt;</summary>
-      
-    
-    
-    
-    <category term="算法" scheme="https://kanoblog.club/categories/%E7%AE%97%E6%B3%95/"/>
-    
-    
-    <category term="算法" scheme="https://kanoblog.club/tags/%E7%AE%97%E6%B3%95/"/>
-    
-    <category term="数据结构" scheme="https://kanoblog.club/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
   </entry>
   
@@ -168,28 +162,6 @@
     <category term="js" scheme="https://kanoblog.club/tags/js/"/>
     
     <category term="jQuery" scheme="https://kanoblog.club/tags/jQuery/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>更新日志</title>
-    <link href="https://kanoblog.club/2022/11/25/2022-12-25-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>https://kanoblog.club/2022/11/25/2022-12-25-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
-    <published>2022-11-25T09:00:00.000Z</published>
-    <updated>2022-11-27T14:52:45.368Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>时间轴</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-11-27 [1.0.0 -&gt; 1.0.1]</p></div></div><div class='timeline-item-content'><ol><li>更新了夜间模式下的<code>星空背景</code>和<code>流星特效</code></li><li>更新了侧边栏的<code>电子时钟(可以查看本地天气和日期)</code></li><li>更新了<code>个人卡片渐变色</code></li><li>更新了<code>外观标签</code>，让<code>markdown</code>语法更加好看</li><li>更新了<code>听话的鼠标</code></li><li>调节了<code>页面的布局</code>和<code>每个卡片透明度</code></li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022-11-26 [1.0.0]</p></div></div><div class='timeline-item-content'><p>不需要额外处理。</p></div></div></div>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;更新日志&quot;&gt;&lt;a href=&quot;#更新日志&quot; class=&quot;headerlink&quot; title=&quot;更新日志&quot;&gt;&lt;/a&gt;更新日志&lt;/h2&gt;&lt;div class=&quot;timeline blue&quot;&gt;&lt;div class=&#39;timeline-item headline&#39;&gt;&lt;d</summary>
-      
-    
-    
-    
-    <category term="日志" scheme="https://kanoblog.club/categories/%E6%97%A5%E5%BF%97/"/>
-    
     
   </entry>
   
