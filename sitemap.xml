@@ -167,13 +167,6 @@
   </url>
   
   <url>
-    <loc>https://kanoblog.club/tags/life/</loc>
-    <lastmod>2022-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://kanoblog.club/tags/web/</loc>
     <lastmod>2022-11-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -182,6 +175,13 @@
   
   <url>
     <loc>https://kanoblog.club/tags/css/</loc>
+    <lastmod>2022-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanoblog.club/tags/life/</loc>
     <lastmod>2022-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

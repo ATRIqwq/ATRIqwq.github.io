@@ -17,9 +17,9 @@ https://kanoblog.club/
 https://kanoblog.club/tags/vue/
 https://kanoblog.club/tags/js/
 https://kanoblog.club/tags/jQuery/
-https://kanoblog.club/tags/life/
 https://kanoblog.club/tags/web/
 https://kanoblog.club/tags/css/
+https://kanoblog.club/tags/life/
 https://kanoblog.club/tags/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80/
 https://kanoblog.club/categories/Web%E5%89%8D%E7%AB%AF/
 https://kanoblog.club/categories/%E6%97%A5%E5%B8%B8life/
