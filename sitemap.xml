@@ -101,15 +101,6 @@
   </url>
   
   <url>
-    <loc>https://kanoblog.club/2022/11/26/My-First-Blog/</loc>
-    
-    <lastmod>2022-11-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://kanoblog.club/tags/index.html</loc>
     
     <lastmod>2022-11-26</lastmod>
@@ -139,57 +130,50 @@
 
   <url>
     <loc>https://kanoblog.club/</loc>
-    <lastmod>2022-11-29</lastmod>
+    <lastmod>2022-11-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://kanoblog.club/tags/life/</loc>
-    <lastmod>2022-11-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://kanoblog.club/tags/web/</loc>
-    <lastmod>2022-11-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://kanoblog.club/tags/css/</loc>
-    <lastmod>2022-11-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://kanoblog.club/tags/vue/</loc>
-    <lastmod>2022-11-29</lastmod>
+    <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://kanoblog.club/tags/js/</loc>
-    <lastmod>2022-11-29</lastmod>
+    <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://kanoblog.club/tags/jQuery/</loc>
-    <lastmod>2022-11-29</lastmod>
+    <lastmod>2022-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanoblog.club/tags/web/</loc>
+    <lastmod>2022-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanoblog.club/tags/css/</loc>
+    <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://kanoblog.club/tags/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80/</loc>
-    <lastmod>2022-11-29</lastmod>
+    <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -197,22 +181,15 @@
 
   
   <url>
-    <loc>https://kanoblog.club/categories/%E6%97%A5%E5%B8%B8life/</loc>
-    <lastmod>2022-11-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://kanoblog.club/categories/Web%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2022-11-29</lastmod>
+    <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://kanoblog.club/categories/%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-11-29</lastmod>
+    <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
