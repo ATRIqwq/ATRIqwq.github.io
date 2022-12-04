@@ -137,20 +137,6 @@
 
   
   <url>
-    <loc>https://kanoblog.club/tags/web/</loc>
-    <lastmod>2022-12-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://kanoblog.club/tags/css/</loc>
-    <lastmod>2022-12-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://kanoblog.club/tags/vue/</loc>
     <lastmod>2022-12-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -166,6 +152,20 @@
   
   <url>
     <loc>https://kanoblog.club/tags/jQuery/</loc>
+    <lastmod>2022-12-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanoblog.club/tags/web/</loc>
+    <lastmod>2022-12-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanoblog.club/tags/css/</loc>
     <lastmod>2022-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
