@@ -65,10 +65,13 @@
   display: flex !important;
 }
 /* 这里的2是代表导航栏的第2个元素，即有子菜单的元素，可以按自己需求修改 */
-.menus_items .menus_item:nth-child(5) .menus_item_child {
-  left: -38px;
+.menus_items .menus_item:nth-child(2) .menus_item_child {
+  left: -80px;
 }
 
+.menus_items .menus_item:nth-child(3) .menus_item_child {
+  left: -80px;
+}
 
 
 /* 夜间模式菜单栏发光字 */
@@ -464,14 +467,20 @@ h6::before {
 }
 
 
+/* 菜单栏图标大小调节 */
+svg.icon {
+  width: 1.3em;
+  height: 1.3em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
 
-/* 引入Unicode和Font-class的线上资源 */
-@import "//at.alicdn.com/t/font_2264842_b004iy0kk2b.css";
-.iconfont {
-font-family: "iconfont" !important;
-font-size: 3em;
-/* 可以定义图标大小 */
-font-style: normal;
--webkit-font-smoothing: antialiased;
--moz-osx-font-smoothing: grayscale;
+/* 社交图标大小调节 */
+svg.social_icon {
+  width: 1.20em;
+  height: 1.20em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
 }

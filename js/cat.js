@@ -33,6 +33,7 @@ if (document.body.clientWidth > 992) {
                 zoom: 0.9,
                 borderRadius: 5 + 'px',
                 right: 60 + 'px',
+                // 这里可以换为你喜欢的图片，例如我就换为了雪人，但是要抠图
                 nekoImg: "https://bu.dusays.com/2022/07/20/62d812db74be9.png",
                 hoverMsg: "喵喵喵~",
                 color: "#6f42c1",
@@ -125,7 +126,7 @@ if (document.body.clientWidth > 992) {
         }
         );
         //自定义（去掉以下注释，并注释掉其他的查看效果）
-        
+        /*
         $("#myscoll").nekoScroll({
             nekoname:'neko1', //nekoname，相当于id
             nekoImg:'img/猫咪.png', //neko的背景图片
@@ -141,8 +142,6 @@ if (document.body.clientWidth > 992) {
             z_index:100, //不用解释了吧
             during:1200, //从顶部到底部滑动的时长
         });
-        
+        */
     })
 }
-
-
