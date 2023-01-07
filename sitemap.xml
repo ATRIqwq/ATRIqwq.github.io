@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://kanoblog.club/gallery/wallpaper/index.html</loc>
+    <loc>https://kanoblog.club/gallery/wallpaper3/index.html</loc>
     
     <lastmod>2023-01-07</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://kanoblog.club/gallery/wallpaper2.html</loc>
+    <loc>https://kanoblog.club/gallery/wallpaper1/index.html</loc>
     
     <lastmod>2023-01-07</lastmod>
     
@@ -29,7 +29,25 @@
   </url>
   
   <url>
-    <loc>https://kanoblog.club/gallery/wallpaper1.html</loc>
+    <loc>https://kanoblog.club/2022/11/27/css%E5%B0%8F%E7%BB%83%E4%B9%A0-1/</loc>
+    
+    <lastmod>2023-01-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanoblog.club/2022/11/27/css%E5%B0%8F%E7%BB%83%E4%B9%A0-2/</loc>
+    
+    <lastmod>2023-01-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanoblog.club/gallery/wallpaper2/index.html</loc>
     
     <lastmod>2023-01-07</lastmod>
     
@@ -59,24 +77,6 @@
     <loc>https://kanoblog.club/2022/11/28/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</loc>
     
     <lastmod>2023-01-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kanoblog.club/2022/11/27/css%E5%B0%8F%E7%BB%83%E4%B9%A0-2/</loc>
-    
-    <lastmod>2023-01-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kanoblog.club/2022/11/27/css%E5%B0%8F%E7%BB%83%E4%B9%A0-1/</loc>
-    
-    <lastmod>2023-01-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -187,7 +187,7 @@
 
   
   <url>
-    <loc>https://kanoblog.club/categories/web%E5%89%8D%E7%AB%AF/</loc>
+    <loc>https://kanoblog.club/categories/Web/</loc>
     <lastmod>2023-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

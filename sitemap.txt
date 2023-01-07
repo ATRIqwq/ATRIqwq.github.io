@@ -1,12 +1,12 @@
 https://kanoblog.club/gallery/index.html
-https://kanoblog.club/gallery/wallpaper/index.html
-https://kanoblog.club/gallery/wallpaper2.html
-https://kanoblog.club/gallery/wallpaper1.html
+https://kanoblog.club/gallery/wallpaper3/index.html
+https://kanoblog.club/gallery/wallpaper1/index.html
+https://kanoblog.club/2022/11/27/css%E5%B0%8F%E7%BB%83%E4%B9%A0-1/
+https://kanoblog.club/2022/11/27/css%E5%B0%8F%E7%BB%83%E4%B9%A0-2/
+https://kanoblog.club/gallery/wallpaper2/index.html
 https://kanoblog.club/categories/index.html
 https://kanoblog.club/music/index.html
 https://kanoblog.club/2022/11/28/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/
-https://kanoblog.club/2022/11/27/css%E5%B0%8F%E7%BB%83%E4%B9%A0-2/
-https://kanoblog.club/2022/11/27/css%E5%B0%8F%E7%BB%83%E4%B9%A0-1/
 https://kanoblog.club/2022/12/06/%E7%BB%84%E7%BD%91%E8%AF%BE%E8%AE%BE/
 https://kanoblog.club/video/index.html
 https://kanoblog.club/movies/index.html
@@ -19,5 +19,5 @@ https://kanoblog.club/
 https://kanoblog.club/tags/web/
 https://kanoblog.club/tags/css/
 https://kanoblog.club/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/
-https://kanoblog.club/categories/web%E5%89%8D%E7%AB%AF/
+https://kanoblog.club/categories/Web/
 https://kanoblog.club/categories/%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/
