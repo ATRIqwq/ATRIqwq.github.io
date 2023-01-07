@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://kanoblog.club/categories/index.html</loc>
+    <loc>https://kanoblog.club/gallery/index.html</loc>
     
     <lastmod>2023-01-07</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://kanoblog.club/gallery/index.html</loc>
+    <loc>https://kanoblog.club/gallery/wallpaper/index.html</loc>
     
     <lastmod>2023-01-07</lastmod>
     
@@ -30,6 +30,15 @@
   
   <url>
     <loc>https://kanoblog.club/gallery/wallpaper1.html</loc>
+    
+    <lastmod>2023-01-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanoblog.club/categories/index.html</loc>
     
     <lastmod>2023-01-07</lastmod>
     
