@@ -4530,7 +4530,11 @@ h1.page-title + .tag-cloud-list {
   transition: box-shadow 0.3s ease-in-out;
   overflow: hidden;
   border-radius: 12px !important;
-  background-color: #eff1f3;
+  background: -webkit-linear-gradient(45deg, #f6d8f5, #c2f1f0, #f0debf);
+  background: -moz-linear-gradient(45deg, #f6d8f5, #c2f1f0, #f0debf);
+  background: -o-linear-gradient(45deg, #f6d8f5, #c2f1f0, #f0debf);
+  background: -ms-linear-gradient(45deg, #f6d8f5, #c2f1f0, #f0debf);
+  background: linear-gradient(45deg, #f6d8f5, #c2f1f0, #f0debf);
 }
 #post .post-copyright:before {
   background: var(--heo-post-blockquote-bg);
@@ -4598,11 +4602,11 @@ h1.page-title + .tag-cloud-list {
   padding: 2px 5px;
 }
 [data-theme="dark"] #post .post-copyright {
-  background-color: #07080a;
+  background: #07080a;
   text-shadow: #bfbeb8 0 0 2px;
   border: 1px solid #131201;
-  -webkit-box-shadow: 0 0 5px #1478d2;
-  box-shadow: 0 0 5px #1478d2;
+  -webkit-box-shadow: 0 0 5px #55b1a8;
+  box-shadow: 0 0 5px #55b1a8;
   -webkit-animation: flashlight 1s linear infinite alternate;
   -moz-animation: flashlight 1s linear infinite alternate;
   -o-animation: flashlight 1s linear infinite alternate;
@@ -4799,7 +4803,7 @@ h1.page-title + .tag-cloud-list {
   width: 35px;
   height: 35px;
   border-radius: 5px;
-  background-color: var(--btn-bg);
+  background-color: #55c1b7;
   color: var(--btn-color);
   text-align: center;
   font-size: 16px;
@@ -4807,7 +4811,7 @@ h1.page-title + .tag-cloud-list {
 }
 #rightside > div > button:hover,
 #rightside > div > a:hover {
-  background-color: var(--btn-hover-color);
+  background-color: #f4763a;
 }
 #rightside #mobile-toc-button {
   display: none;
