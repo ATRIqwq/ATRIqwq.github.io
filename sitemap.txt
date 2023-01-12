@@ -18,8 +18,8 @@ https://kanoblog.club/archives/index.html
 https://kanoblog.club/tags/index.html
 https://kanoblog.club/about/index.html
 https://kanoblog.club/
+https://kanoblog.club/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/
 https://kanoblog.club/tags/web/
 https://kanoblog.club/tags/css/
-https://kanoblog.club/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/
-https://kanoblog.club/categories/Web/
 https://kanoblog.club/categories/%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/
+https://kanoblog.club/categories/Web/
