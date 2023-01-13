@@ -21,9 +21,10 @@
   border: var(--border-style);
 }
 
-/* 文章页、归档页、普通页面 */
+/* 文章页、归档页、普通页面，分类页 */
 div#post,
 div#page,
+div#category,  
 div#archive {
   background: var(--trans-light);
   backdrop-filter: var(--backdrop-filter);
