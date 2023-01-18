@@ -1,8 +1,8 @@
 :root {
-  --trans-light: rgba(255,255,255,0.80);
+  --trans-light: rgba(255,255,255,0.9);
   --trans-dark: rgba(25, 25, 25, 0.6);
   --border-style: 1px solid rgb(169, 169, 169);
-  --backdrop-filter: blur(5px) saturate(150%);
+  --backdrop-filter: blur(3px) saturate(150%);
 }
 
 /* 首页文章卡片 */
@@ -19,6 +19,7 @@
   backdrop-filter: var(--backdrop-filter);
   border-radius: 18px;
   border: var(--border-style);
+  width: auto;
 }
 
 /* 文章页、归档页、普通页面，分类页 */
@@ -34,7 +35,15 @@ div#archive {
 
 /* 导航栏 */
 #page-header.nav-fixed #nav {
-  background: rgba(255, 255, 255, 0.75);
+    background: linear-gradient(
+    -45deg,
+    rgba(68,195,182, 0.8),
+    rgba(236,206,197,0.8),
+    rgba(163,233,235,0.8),
+    rgba(189,189,240,0.8),
+    rgba(238,193,234,0.8)
+  );
+  /* opacity: 0.8; */
   backdrop-filter: var(--backdrop-filter);
 }
 
@@ -46,6 +55,7 @@ div#archive {
 [data-theme="dark"] #recent-posts > .recent-post-item,
 [data-theme="dark"] #aside-content .card-widget,
 [data-theme="dark"] div#post,
+[data-theme="dark"] div#category,
 [data-theme="dark"] div#archive,
 [data-theme="dark"] div#page {
   background: var(--trans-dark);

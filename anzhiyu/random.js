@@ -1,0 +1,1 @@
+var posts=["2022/11/27/css小练习-2/","2022/11/27/css小练习-1/","2022/12/06/组网课设/"];function toRandomPost(){window.open('/'+posts[Math.floor(Math.random() * posts.length)],"_self");};

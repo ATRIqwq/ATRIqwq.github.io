@@ -2,9 +2,108 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://kanoblog.club/2022/12/06/%E7%BB%84%E7%BD%91%E8%AF%BE%E8%AE%BE/</loc>
+    
+    <lastmod>2023-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanoblog.club/2022/11/27/css%E5%B0%8F%E7%BB%83%E4%B9%A0-2/</loc>
+    
+    <lastmod>2023-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanoblog.club/2022/11/27/css%E5%B0%8F%E7%BB%83%E4%B9%A0-1/</loc>
+    
+    <lastmod>2023-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanoblog.club/secret/index.html</loc>
+    
+    <lastmod>2023-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanoblog.club/video/index.html</loc>
+    
+    <lastmod>2023-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanoblog.club/myblog/index.html</loc>
+    
+    <lastmod>2023-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanoblog.club/music/index.html</loc>
+    
+    <lastmod>2023-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanoblog.club/movies/index.html</loc>
+    
+    <lastmod>2023-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanoblog.club/gallery/index.html</loc>
+    
+    <lastmod>2023-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanoblog.club/bangumis/index.html</loc>
+    
+    <lastmod>2023-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://kanoblog.club/categories/index.html</loc>
     
-    <lastmod>2023-01-13</lastmod>
+    <lastmod>2023-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanoblog.club/charts/index.html</loc>
+    
+    <lastmod>2023-01-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +112,7 @@
   <url>
     <loc>https://kanoblog.club/tags/index.html</loc>
     
-    <lastmod>2023-01-13</lastmod>
+    <lastmod>2023-01-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -29,70 +128,7 @@
   </url>
   
   <url>
-    <loc>https://kanoblog.club/2022/11/27/css%E5%B0%8F%E7%BB%83%E4%B9%A0-2/</loc>
-    
-    <lastmod>2023-01-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kanoblog.club/2022/11/27/css%E5%B0%8F%E7%BB%83%E4%B9%A0-1/</loc>
-    
-    <lastmod>2023-01-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kanoblog.club/bangumis/index.html</loc>
-    
-    <lastmod>2023-01-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kanoblog.club/movies/index.html</loc>
-    
-    <lastmod>2023-01-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kanoblog.club/myblog/index.html</loc>
-    
-    <lastmod>2023-01-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kanoblog.club/gallery/index.html</loc>
-    
-    <lastmod>2023-01-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://kanoblog.club/website/index.html</loc>
-    
-    <lastmod>2023-01-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kanoblog.club/charts/index.html</loc>
     
     <lastmod>2023-01-10</lastmod>
     
@@ -137,33 +173,6 @@
   </url>
   
   <url>
-    <loc>https://kanoblog.club/music/index.html</loc>
-    
-    <lastmod>2023-01-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kanoblog.club/2022/12/06/%E7%BB%84%E7%BD%91%E8%AF%BE%E8%AE%BE/</loc>
-    
-    <lastmod>2022-12-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kanoblog.club/video/index.html</loc>
-    
-    <lastmod>2022-12-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://kanoblog.club/about/index.html</loc>
     
     <lastmod>2022-11-26</lastmod>
@@ -175,7 +184,7 @@
 
   <url>
     <loc>https://kanoblog.club/</loc>
-    <lastmod>2023-01-13</lastmod>
+    <lastmod>2023-01-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -183,21 +192,21 @@
   
   <url>
     <loc>https://kanoblog.club/tags/web/</loc>
-    <lastmod>2023-01-13</lastmod>
+    <lastmod>2023-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://kanoblog.club/tags/css/</loc>
-    <lastmod>2023-01-13</lastmod>
+    <lastmod>2023-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://kanoblog.club/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2023-01-13</lastmod>
+    <lastmod>2023-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -206,14 +215,14 @@
   
   <url>
     <loc>https://kanoblog.club/categories/Web/</loc>
-    <lastmod>2023-01-13</lastmod>
+    <lastmod>2023-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://kanoblog.club/categories/%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2023-01-13</lastmod>
+    <lastmod>2023-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

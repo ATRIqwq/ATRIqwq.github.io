@@ -56,10 +56,10 @@ body::-webkit-scrollbar {
 /**
  * @description: 滚动条样式  跟猫二选一
  */
-@media screen and (max-width:992px) {
+@media screen and (max-width:2000px) {
     ::-webkit-scrollbar {
         width: 8px !important;
-        height: 8px !important
+        height: 4px !important
     }
 
     ::-webkit-scrollbar-track {
@@ -75,4 +75,41 @@ body::-webkit-scrollbar {
     ::-webkit-scrollbar-corner {
         background-color: transparent
     }
+}
+
+
+
+/* 滚动条样式 */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: rgba(87,184,190);
+  border-radius: 2em;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(94,177,246);
+  background-image: -webkit-linear-gradient(
+    45deg,
+    rgba(255, 255, 255, 0.4) 25%,
+    transparent 25%,
+    transparent 50%,
+    rgba(255, 255, 255, 0.4) 50%,
+    rgba(255, 255, 255, 0.4) 75%,
+    transparent 75%,
+    transparent
+  );
+  border-radius: 2em;
+}
+
+::-webkit-scrollbar-corner {
+  background-color: transparent;
+}
+
+::-moz-selection {
+  color: #fff;
+  background-color: rgba(94,177,246);
 }

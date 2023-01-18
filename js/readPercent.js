@@ -15,3 +15,8 @@ function percent() {
         up.childNodes[0].style.display = 'block'
     }
 }
+
+// Back to top
+// scrollToTop: () => { 
+//     btf.scrollToDest(0, 500)
+// }
