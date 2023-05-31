@@ -1,1 +1,1 @@
-var posts=["2023/05/23/如何将项目上传github/","2022/11/27/css小练习-1/","2022/12/06/组网课设/","2022/11/27/css小练习-2/"];function toRandomPost(){window.open('/'+posts[Math.floor(Math.random() * posts.length)],"_self");};
+var posts=["2022/11/27/css小练习-1/","2022/11/27/css小练习-2/","2023/05/23/如何将项目上传github/","2023/05/31/汇编语言笔记/","2022/12/06/组网课设/"];function toRandomPost(){window.open('/'+posts[Math.floor(Math.random() * posts.length)],"_self");};
