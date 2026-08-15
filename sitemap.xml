@@ -11,33 +11,6 @@
   </url>
   
   <url>
-    <loc>https://atriqwq.github.io/life/games/index.html</loc>
-    
-    <lastmod>2026-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://atriqwq.github.io/life/movies/index.html</loc>
-    
-    <lastmod>2026-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://atriqwq.github.io/life/music/index.html</loc>
-    
-    <lastmod>2026-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://atriqwq.github.io/personal/about/index.html</loc>
     
     <lastmod>2026-08-15</lastmod>
@@ -56,25 +29,7 @@
   </url>
   
   <url>
-    <loc>https://atriqwq.github.io/personal/love/index.html</loc>
-    
-    <lastmod>2026-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://atriqwq.github.io/site/census/index.html</loc>
-    
-    <lastmod>2026-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://atriqwq.github.io/site/time/index.html</loc>
     
     <lastmod>2026-08-15</lastmod>
     
@@ -92,7 +47,52 @@
   </url>
   
   <url>
+    <loc>https://atriqwq.github.io/site/time/index.html</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://atriqwq.github.io/personal/love/index.html</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://atriqwq.github.io/social/link/index.html</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://atriqwq.github.io/life/movies/index.html</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://atriqwq.github.io/life/games/index.html</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://atriqwq.github.io/life/music/index.html</loc>
     
     <lastmod>2026-08-15</lastmod>
     
@@ -137,6 +137,15 @@
   </url>
   
   <url>
+    <loc>https://atriqwq.github.io/box/gallery/wallpaper3/index.html</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://atriqwq.github.io/box/gallery/wallpaper1/index.html</loc>
     
     <lastmod>2026-08-15</lastmod>
@@ -147,15 +156,6 @@
   
   <url>
     <loc>https://atriqwq.github.io/box/gallery/wallpaper2/index.html</loc>
-    
-    <lastmod>2026-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://atriqwq.github.io/box/gallery/wallpaper3/index.html</loc>
     
     <lastmod>2026-08-15</lastmod>
     
@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://atriqwq.github.io/posts/ec9bdcbf.html</loc>
+    <loc>https://atriqwq.github.io/posts/185df511.html</loc>
     
     <lastmod>2026-08-15</lastmod>
     
@@ -209,7 +209,7 @@
   </url>
   
   <url>
-    <loc>https://atriqwq.github.io/posts/185df511.html</loc>
+    <loc>https://atriqwq.github.io/posts/ec9bdcbf.html</loc>
     
     <lastmod>2026-08-15</lastmod>
     
@@ -280,7 +280,7 @@
   </url>
   
   <url>
-    <loc>https://atriqwq.github.io/tags/Git/</loc>
+    <loc>https://atriqwq.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -294,7 +294,7 @@
   </url>
   
   <url>
-    <loc>https://atriqwq.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
+    <loc>https://atriqwq.github.io/tags/Git/</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
