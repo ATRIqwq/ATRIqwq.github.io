@@ -11,7 +11,16 @@
   </url>
   
   <url>
-    <loc>https://atriqwq.github.io/social/fcircle/index.html</loc>
+    <loc>https://atriqwq.github.io/site/census/index.html</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://atriqwq.github.io/site/time/index.html</loc>
     
     <lastmod>2026-08-15</lastmod>
     
@@ -21,6 +30,15 @@
   
   <url>
     <loc>https://atriqwq.github.io/social/link/index.html</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://atriqwq.github.io/social/fcircle/index.html</loc>
     
     <lastmod>2026-08-15</lastmod>
     
@@ -83,25 +101,25 @@
   </url>
   
   <url>
-    <loc>https://atriqwq.github.io/site/census/index.html</loc>
-    
-    <lastmod>2026-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://atriqwq.github.io/site/time/index.html</loc>
-    
-    <lastmod>2026-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://atriqwq.github.io/categories/index.html</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://atriqwq.github.io/box/animation/index.html</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://atriqwq.github.io/box/gallery/index.html</loc>
     
     <lastmod>2026-08-15</lastmod>
     
@@ -146,24 +164,6 @@
   </url>
   
   <url>
-    <loc>https://atriqwq.github.io/box/animation/index.html</loc>
-    
-    <lastmod>2026-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://atriqwq.github.io/box/gallery/index.html</loc>
-    
-    <lastmod>2026-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://atriqwq.github.io/posts/183c5526.html</loc>
     
     <lastmod>2026-08-15</lastmod>
@@ -182,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://atriqwq.github.io/posts/a5d3d553.html</loc>
+    <loc>https://atriqwq.github.io/posts/ec9bdcbf.html</loc>
     
     <lastmod>2026-08-15</lastmod>
     
@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://atriqwq.github.io/posts/ec9bdcbf.html</loc>
+    <loc>https://atriqwq.github.io/posts/a5d3d553.html</loc>
     
     <lastmod>2026-08-15</lastmod>
     
