@@ -11,6 +11,33 @@
   </url>
   
   <url>
+    <loc>https://atriqwq.github.io/life/games/index.html</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://atriqwq.github.io/life/movies/index.html</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://atriqwq.github.io/life/music/index.html</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://atriqwq.github.io/personal/about/index.html</loc>
     
     <lastmod>2026-08-15</lastmod>
@@ -74,34 +101,25 @@
   </url>
   
   <url>
-    <loc>https://atriqwq.github.io/life/movies/index.html</loc>
-    
-    <lastmod>2026-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://atriqwq.github.io/life/games/index.html</loc>
-    
-    <lastmod>2026-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://atriqwq.github.io/life/music/index.html</loc>
-    
-    <lastmod>2026-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://atriqwq.github.io/categories/index.html</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://atriqwq.github.io/box/gallery/index.html</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://atriqwq.github.io/box/animation/index.html</loc>
     
     <lastmod>2026-08-15</lastmod>
     
@@ -128,15 +146,6 @@
   </url>
   
   <url>
-    <loc>https://atriqwq.github.io/box/gallery/wallpaper3/index.html</loc>
-    
-    <lastmod>2026-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://atriqwq.github.io/box/gallery/wallpaper2/index.html</loc>
     
     <lastmod>2026-08-15</lastmod>
@@ -146,16 +155,7 @@
   </url>
   
   <url>
-    <loc>https://atriqwq.github.io/box/animation/index.html</loc>
-    
-    <lastmod>2026-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://atriqwq.github.io/box/gallery/index.html</loc>
+    <loc>https://atriqwq.github.io/box/gallery/wallpaper3/index.html</loc>
     
     <lastmod>2026-08-15</lastmod>
     
